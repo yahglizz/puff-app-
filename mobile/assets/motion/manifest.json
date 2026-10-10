@@ -1,0 +1,260 @@
+{
+  "quoted_successful_clips_credits": 90,
+  "additional_failed_attempts_quoted_credits": 35,
+  "source_duration_seconds": 5,
+  "records": [
+    {
+      "index": 0,
+      "screen": "welcome",
+      "job_id": "3e68d3f1-c7cb-4231-bc14-2dcead6d77d5",
+      "model": "seedance_2_5",
+      "quoted_credits": 35,
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_164155_3e68d3f1-c7cb-4231-bc14-2dcead6d77d5.mp4",
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second seamless mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud makes one tiny buoyant happy hop in place, lifts the existing raised arm into a small wave, and returns to its starting pose. Broken cigarette stays fixed; smoke gently dissipates and curls in place. Existing leaves sway by a few pixels, sun rays give one soft shimmer. Low amplitude, relaxed breathing pace, no rapid motion.",
+      "runtime_file": "welcome.mp4",
+      "selected_source_duration_seconds": 2.5,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 365596
+    },
+    {
+      "index": 1,
+      "job_id": "a1f89232-c84c-41bc-92d5-d4175bdbd902",
+      "status": "completed",
+      "screen": "habit",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud nods encouragingly once; its teal checklist clipboard tilts by only a few degrees and the EXISTING teal checkmarks shimmer. Broken cigarette stays fixed. Small sun-ray shimmer, tiny leaf sway.",
+      "reference_media_id": "c41e5838-5079-4d9c-b3d1-200ead8a406c",
+      "type": "video",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_164823_a1f89232-c84c-41bc-92d5-d4175bdbd902.mp4",
+      "runtime_file": "habit.mp4",
+      "selected_source_duration_seconds": 1.8,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 342029
+    },
+    {
+      "index": 2,
+      "job_id": "f309f161-fd8e-464a-b468-e904d219c32d",
+      "status": "completed",
+      "screen": "motivation",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gently bobs in place. EXISTING heart, piggy bank, lungs and sneaker circles float up and down by at most three percent of their size. They remain in their exact original positions relative to the cloud. No icons appear or disappear.",
+      "reference_media_id": "47621e3d-0420-429f-b774-104237543575",
+      "type": "video",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_164823_f309f161-fd8e-464a-b468-e904d219c32d.mp4",
+      "runtime_file": "motivation.mp4",
+      "selected_source_duration_seconds": 2.5,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 634446
+    },
+    {
+      "index": 3,
+      "job_id": "598a50e0-999d-4be6-9a32-8cfe93382185",
+      "status": "completed",
+      "screen": "plan",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gives a tiny proud nod. Only the corner of ONE existing calendar page lifts slightly and settles back; the existing date-check gently shimmers. Calendar geometry stays fixed. No new dates or numbers.",
+      "reference_media_id": "7e2ab477-9b72-46c1-b914-7699375da179",
+      "type": "video",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_164823_598a50e0-999d-4be6-9a32-8cfe93382185.mp4",
+      "runtime_file": "plan.mp4",
+      "selected_source_duration_seconds": 2.5,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 450999
+    },
+    {
+      "index": 4,
+      "job_id": "29906fd4-f980-4427-8610-143e63046619",
+      "status": "completed",
+      "screen": "ready",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud makes one little celebratory bounce and raises its existing arms slightly. EXISTING confetti drifts slowly a few pixels, with a soft sun-ray glint. Keep every confetti piece present; no explosions or fast spin.",
+      "reference_media_id": "05d78bdb-0a5a-4acf-8a02-8f5bf1801363",
+      "type": "video",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_164823_29906fd4-f980-4427-8610-143e63046619.mp4",
+      "runtime_file": "ready.mp4",
+      "selected_source_duration_seconds": 2.5,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 541154
+    },
+    {
+      "index": 5,
+      "job_id": "9edc853f-5a36-4aef-8339-a56fd355a2c6",
+      "status": "completed",
+      "screen": "home",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gives one small friendly wave while gently breathing in place. Tiny leaf sway and one soft sun-ray shimmer. All cream space on the left and any existing upper-right UI symbols stay completely still.",
+      "reference_media_id": "0d80b595-4f9d-41eb-bcda-b3f7d771c389",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "cca03207-027d-4310-ab93-8b1c9dba3b1e",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165327_9edc853f-5a36-4aef-8339-a56fd355a2c6.mp4",
+      "runtime_file": "home.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 82825
+    },
+    {
+      "index": 6,
+      "job_id": "8b49da24-c155-495f-8fd1-66d788186773",
+      "status": "completed",
+      "screen": "chat",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gives a small attentive nod and blinks once. Extremely calm, conversational, no mouth speaking, no invented message bubble. All cream space on the left stays completely still.",
+      "reference_media_id": "5ca26eb6-c9ae-4c59-9494-dd699dcb5be3",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "59de64d3-9d3c-476c-8806-9e27a5699429",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165326_8b49da24-c155-495f-8fd1-66d788186773.mp4",
+      "runtime_file": "chat.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 86099
+    },
+    {
+      "index": 7,
+      "job_id": "f6a8ee62-0a04-47f0-823f-079d136bff99",
+      "status": "completed",
+      "screen": "progress",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud makes a tiny celebratory bob and the EXISTING yellow rays glint softly. No new trophies or calendar marks. All cream space on the left stays completely still.",
+      "reference_media_id": "f04393c6-6f20-4181-bd79-ddb3d66990ec",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "0e0e9e7f-e207-4f5d-8963-3fe58b605603",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165327_f6a8ee62-0a04-47f0-823f-079d136bff99.mp4",
+      "runtime_file": "progress.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 140176
+    },
+    {
+      "index": 8,
+      "job_id": "597e29cb-2e4e-472b-90d2-19f256a97b4f",
+      "status": "completed",
+      "screen": "checkin",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud nods reassuringly once, then returns to slow relaxed breathing. No expressive face changes. All cream space on the left stays completely still.",
+      "reference_media_id": "5993c925-6cb8-4041-b9db-5471785d05fd",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "0bc75f89-3379-4a1b-b3c8-f4d8213f186a",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165328_597e29cb-2e4e-472b-90d2-19f256a97b4f.mp4",
+      "runtime_file": "checkin.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 99180
+    },
+    {
+      "index": 9,
+      "job_id": "4eef43f4-c1f0-4002-b927-56df7fe38ff2",
+      "status": "completed",
+      "screen": "journal",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud's existing pencil makes two tiny writing strokes in the existing open book. Hand and pencil stay attached, book stays fixed. Do not show any written text. All cream space on the left stays completely still.",
+      "reference_media_id": "29cc0e57-d458-4049-84bc-85cd188a62c3",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "04394cbb-1f60-4585-bd7b-81ad7c8f80f2",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165326_4eef43f4-c1f0-4002-b927-56df7fe38ff2.mp4",
+      "runtime_file": "journal.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 64094
+    },
+    {
+      "index": 10,
+      "job_id": "37d24d3a-43c5-4cd6-a116-14f7276a00e4",
+      "status": "completed",
+      "screen": "community",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gives the EXISTING coral heart a very small gentle squeeze with its existing hands, then relaxes, returning to the first pose. Existing leaves sway subtly. All cream space on the left stays completely still.",
+      "reference_media_id": "57117854-71a7-470c-a032-393a0fbfd081",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "3fe4ef79-caad-4cf2-8b03-6bdd3bebd285",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165326_37d24d3a-43c5-4cd6-a116-14f7276a00e4.mp4",
+      "runtime_file": "community.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 71273
+    },
+    {
+      "index": 11,
+      "job_id": "9575c1b0-1db6-4cea-a210-a18dc636b73f",
+      "status": "completed",
+      "screen": "profile",
+      "model": "kling2_6",
+      "quoted_credits": 5,
+      "prompt": "Animate this exact Puff Pop illustration as a calm five-second mobile UI artwork loop. Keep the identical fluffy white cloud mascot, thick navy outlines, pink cheeks, tiny navy limbs and teal-white shoes; keep all objects, colors, composition and lighting exactly recognizable. Locked camera, no pan, zoom, camera shake or scene cut. Preserve framing. Only tiny deliberate motions. Keep first and final poses matching. No new objects, no text, no logos, no controls, no audio. Do not morph the character, deform face, change anatomy or turn it into 3D. The cloud gives one small proud wave and returns to its original pose; existing sun rays shimmer very softly. Avatar identity and landscape stay fixed. All cream space on the left stays completely still.",
+      "reference_media_id": "44740988-a804-45c5-9f33-a96d832fd7f3",
+      "type": "video",
+      "failed_attempts": [
+        {
+          "job_id": "e0865413-ff8f-418e-a3cf-5dca99f1a004",
+          "status": "failed",
+          "quoted_credits": 5
+        }
+      ],
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BM2PUxG8RiOCOVf1PSDAa5PjtI/hf_20261010_165330_9575c1b0-1db6-4cea-a210-a18dc636b73f.mp4",
+      "runtime_file": "profile.mp4",
+      "selected_source_duration_seconds": 1.6,
+      "processing": "crop reference padding; mask header text area; forward/reverse loop; silent H.264",
+      "loop_seam_verified": true,
+      "runtime_bytes": 77658
+    }
+  ],
+  "runtime_total_bytes": 2955529,
+  "failed_attempt_billing_verified": false
+}
