@@ -1,0 +1,13 @@
+._*
+.DS_Store
+.claude-flow/
+.swarm/
+ruvector.db*
+node_modules/
+node_modules.partial/
+.expo/
+dist/
+output/
+*.log
+.playwright-cli/
+agentdb.rvf*

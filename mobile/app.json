@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Puff Pop",
+    "slug": "puff-pop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mockups/avatar-cap.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.puffpop.uipreview"
+    },
+    "web": {
+      "favicon": "./assets/mockups/avatar-cap.png"
+    }
+  }
+}
